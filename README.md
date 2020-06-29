@@ -1,2 +1,2 @@
 # searves-test
-用于测试github搭建的环境
+雪花背景效果及特效闪电文字
